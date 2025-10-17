@@ -1,13 +1,12 @@
-# *Python Fun Projects* 🐍
+### Python Fun Projects 🐍
 Task 1: Fake News Headline Generator
 
 Generate random funny headlines using Python!
 
-How to Run
-python fake_news_generator.py
+**How to Run**
+Use `python fake_news_generator.py` to run the program.
 
-How it Works
-python fake_news_generator.py
+**How it Works**
 
 Picks a random subject, action, and place/thing.
 
